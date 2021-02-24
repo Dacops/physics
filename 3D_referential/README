@@ -1,0 +1,13 @@
+This is 3D referential perspective in python turtle.
+Why? Because a challenge is always good to learn.
+Now, about the project, you'll be asked 4 inputs, being those:
+  -1.Choose your viewing angle: This is used to determine the "vertical" viewing angle, being 90º completely vertical looking down. Values go from 0deg to 90deg.
+  -2.Horizontal launch angle: This is the horizontal(XoY) angle in which your vector will be generated, starts at X axis and values go from 0deg to 360deg.
+  -3.Vertical Launch Angle: This is the vertical(HORIZONTALoZ) angle in which your vector will be generated, starts at the Horizontal launch angle, 0deg and can go up to 90deg, the Z axis.
+  -4.Launch Speed: This will be used soon for projectiles, right now it's only used to determine the vectors size.
+  
+In conclusion, this is a begginers project, there may still exist miss calculations of some sort in the code.
+These altough can only be found during extensive testing.
+That way, if any vector appears miss-calculated I would appreciate that user could submit an issue with the 4 inputs listed above so I could see what can be fixed.
+
+-dacops
