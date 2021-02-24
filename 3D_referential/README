@@ -5,6 +5,8 @@ Now, about the project, you'll be asked 4 inputs, being those:
   -2.Horizontal launch angle: This is the horizontal(XoY) angle in which your vector will be generated, starts at X axis and values go from 0deg to 360deg.
   -3.Vertical Launch Angle: This is the vertical(HORIZONTALoZ) angle in which your vector will be generated, starts at the Horizontal launch angle, 0deg and can go up to 90deg, the Z axis.
   -4.Launch Speed: This will be used soon for projectiles, right now it's only used to determine the vectors size.
+ After these, the vector should appear.
+ (Note: While using the "leave" button, sometimes the traceback "turtle.Terminator" appears in the console, for what I've searched this is just turtle closing itself, it doesn't mean nothing went wrong).
   
 In conclusion, this is a begginers project, there may still exist miss calculations of some sort in the code.
 These altough can only be found during extensive testing.
