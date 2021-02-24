@@ -1,4 +1,4 @@
-This is 3D referential perspective in python turtle.
+This is 3D referential perspective in python turtle 2D canvas.
 Why? Because a challenge is always good to learn.
 Now, about the project, you'll be asked 4 inputs, being those:
   -1.Choose your viewing angle: This is used to determine the "vertical" viewing angle, being 90º completely vertical looking down. Values go from 0deg to 90deg.
